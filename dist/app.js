@@ -1,6 +1,7 @@
 "use strict";
 //import {emailTemplate as email} from './js-foundation/01-template';
 //console.log(email);
+//-Destructurig
 //require('./js-foundation/02-destructuring')
 //-callbacks
 //import { getUserById} from './js-foundation/03-callbacks'
