@@ -1,7 +1,7 @@
 
 export const emailTemplate = `
     <div>
-        Hola como estan
+        Hola como estas {{name}}
     </div>
 
 `;

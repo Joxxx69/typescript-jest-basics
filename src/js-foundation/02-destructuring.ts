@@ -1,2 +1,3 @@
 
-console.log(process.env);
+
+export const characters = ['flash', 'batman', 'spiderman'];
